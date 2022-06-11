@@ -19,7 +19,7 @@ I- FONCTIONNALITES IMPLEMENTEES ET DIFFICULTES RENCONTREES
   II- FONCTIONNALITES SUPPLEMENTAIRES
   
 - Supprimer des favoris  
-- Position géographique de l'utilisateur
+- Position géographique de l'utilisateur à un insatant t
  
  
 NB: Il faut autoriser la localisation avant de lancer l'application
